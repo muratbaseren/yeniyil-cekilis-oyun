@@ -1,0 +1,12 @@
+# Kişisel / üretilen dosyalar — public repoya GİTMEZ
+# linkler + gizli kodlar
+tools/out/
+# isimler (npm run kisiler üretir)
+tools/katilimcilar.json
+# şifreli kura (npm run kura üretir)
+site/kura.js
+# skor için kişi id'leri (npm run kura üretir)
+netlify/shared/ids.mjs
+
+node_modules/
+.netlify/

@@ -1,0 +1,57 @@
+{
+  "_not": "Örnek dosya. Kendi listen için: npm run kisiler",
+  "people": [
+    {
+      "name": "Ayşe",
+      "gender": "kadin",
+      "look": {
+        "shirt": "#d62839",
+        "pants": "#2b2d42",
+        "hair": "#3b2416",
+        "hat": "bere",
+        "hairStyle": "uzun",
+        "glasses": false,
+        "scarf": "#ffffff"
+      }
+    },
+    {
+      "name": "Mehmet",
+      "gender": "erkek",
+      "look": {
+        "shirt": "#1d6fd8",
+        "pants": "#333a4d",
+        "hair": "#1e1a17",
+        "hat": "none",
+        "hairStyle": "kisa",
+        "glasses": true,
+        "scarf": null
+      }
+    },
+    {
+      "name": "Zeynep",
+      "gender": "kadin",
+      "look": {
+        "shirt": "#9b5de5",
+        "pants": "#22223b",
+        "hair": "#c88a3a",
+        "hat": "none",
+        "hairStyle": "uzun",
+        "glasses": false,
+        "scarf": "#f7d046"
+      }
+    },
+    {
+      "name": "Can",
+      "gender": "erkek",
+      "look": {
+        "shirt": "#3fb950",
+        "pants": "#264653",
+        "hair": "#2b1b10",
+        "hat": "bere",
+        "hairStyle": "kisa",
+        "glasses": false,
+        "scarf": "#e63946"
+      }
+    }
+  ]
+}

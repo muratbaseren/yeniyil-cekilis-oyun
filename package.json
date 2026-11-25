@@ -1,0 +1,17 @@
+{
+  "name": "yilbasi-hediyelesme",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "kisiler": "node tools/kisiler.mjs",
+    "kura": "node tools/kura.mjs",
+    "deploy": "netlify deploy --prod",
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.11"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

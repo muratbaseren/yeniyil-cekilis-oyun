@@ -1,0 +1,8 @@
+# Sadece site/ klasörü yayınlanır (tools/ ve kodlar ASLA yayınlanmaz)
+[build]
+  publish = "site"
+  functions = "netlify/functions"
+  command = ""
+
+[functions]
+  node_bundler = "esbuild"
